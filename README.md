@@ -35,6 +35,9 @@ June Summary Statistics:
  
 <img src="https://github.com/blocrunx/Surfs_Up/blob/master/img/june.png" width="100" height="200" />
 
+December Summary Statistics:
+
+<img src="https://github.com/blocrunx/Surfs_Up/blob/master/img/dec.png" width="100" height="200" />
  
 In order to provide the investors with the most complete analysis possible, the following reccomendations are being made:
 
