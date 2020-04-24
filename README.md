@@ -33,7 +33,7 @@ Investors of the Surfs Up icecream shop have asked for additional weather analys
 
 June Summary Statistics:
  
-![june](img/june.png = 20x100)
+<img src="https://github.com/blocrunx/Surfs_Up/blob/master/img/june.png" width="100" height="200" />
 
  
 In order to provide the investors with the most complete analysis possible, the following reccomendations are being made:
