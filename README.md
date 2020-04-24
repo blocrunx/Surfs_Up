@@ -33,7 +33,7 @@ Investors of the Surfs Up icecream shop have asked for additional weather analys
 
 June Summary Statistics:
  
-![june](img/june.png)
+![june](img/june.png = 20x100)
 
  
 In order to provide the investors with the most complete analysis possible, the following reccomendations are being made:
