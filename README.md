@@ -3,7 +3,7 @@ Analysis of Oahu weather
 
 ## Project Overview
 
-Investors of the Surfs Up icecream shop have asked for additional weather analysis for June and December to ensure that there are enough customers between seasons to sustain the business throughout the year. This analysis can be easily completed using two different methods, both of which will be used to ensure the analysis is thorough.
+Investors of the Surfs Up ice cream shop have asked for additional weather analysis for June and December to ensure that there are enough customers between seasons to sustain the business throughout the year. This analysis can be easily completed using two different methods, both of which will be used to ensure thorough analysis.
 - First Method:
   - Query Measurements.date and Measurements.prcp objects.
   - Use extract function to get the precipitation data for June across all years.
@@ -39,11 +39,11 @@ December Summary Statistics:
 
 <img src="https://github.com/blocrunx/Surfs_Up/blob/master/img/dec.png" width="100" height="200" />
  
-In order to provide the investors with the most complete analysis possible, the following reccomendations are being made:
+In order to provide the investors with the most complete analysis possible, the following recommendations are being made:
 
-- Further analysis to examine precipitation elsewhere in the world. With this limited analysis it is clear that December has more precipitation relative to June, however, it does not necessarily mean December has particularly high precipitation. 
-- Analysis of the precipitation patterns in the other ten months of the year.
-- Further analysis to examine the temperatures thoughout the year. This will help build a more complete revenue projection for each month.
+- Further analysis to examine precipitation elsewhere in the world. December has more precipitation relative to June, however, it is not clear whether December has particularly high precipitation.
+- Analysis of the precipitation patterns for the other ten months of the year.
+- Further analysis to examine the temperatures throughout the year will help build a more complete monthly revenue projection.
 - Analysis of local companies competing in the same market to identify whether the area can support another ice cream vendor.
 
   
